@@ -1,4 +1,5 @@
 um exemplo
 um exemplo COM MAIS ETSA LINHA
 adição desta linha no branch testing.
+um exemplo que no RAMO MASTER DIVERGE
 um exemplo NO RAMO testing
