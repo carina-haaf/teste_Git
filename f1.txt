@@ -1,5 +1,4 @@
 um exemplo
 um exemplo COM MAIS ETSA LINHA
 adição desta linha no branch testing.
-
 um exemplo NO RAMO testing
